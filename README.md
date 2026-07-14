@@ -20,6 +20,12 @@ Passionate about building modern, scalable, and user-friendly web & mobile appli
 - 📚 Always learning new technologies and best practices
 - 🎯 Focused on performance, responsive design, and clean architecture
 
+
+# ⚡ Fun Fact
+
+- Alhamdulillah, I am a proud Muslim.
+- I'm always excited to tackle new challenges and help bring your mobile app ideas to life. Let's connect and build something amazing
+
 ---
 
 # 🛠️ Skills & Technologies
