@@ -22,11 +22,11 @@ Passionate about building modern, scalable, and user-friendly web & mobile appli
 
 ---
 
-# 💻 Skills & Technologies
+# 🛠️ Skills & Technologies
 
 <p >
   <img
-    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,firebase,androidstudio,aws,gcp,git,github,vscode,figma,postman,npm,vite,vercel,netlify&perline=7"
+    src="https://skillicons.dev/icons?i=react,nextjs,js,ts,sass,tailwind,firebase,html,css,androidstudio,aws,gcp,git,github,vscode,figma,postman,npm,vite,vercel,netlify&perline=7"
   
 </p>
 
