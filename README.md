@@ -5,7 +5,7 @@ Full Stack Developer | React.js | React Native | Expo | Next.js | Firebase
 </h3>
 
 <p>
-Passionate about building modern, scalable, and user-friendly web & mobile applications with clean code and exceptional user experiences.
+Passionate Software Developer specializing in React, React Native, Expo, Next.js, and Firebase. Focused on building scalable, performant web and mobile applications with clean architecture and modern development practices.
 </p>
 
 ---
@@ -37,37 +37,8 @@ Passionate about building modern, scalable, and user-friendly web & mobile appli
 </p>
 
 ---
-# 🚀 Core Expertise
-
-- Responsive Web Development
-- Cross-Platform Mobile Applications
-- Firebase Integration
-- Authentication Systems
-- CRUD Operations
-- Dashboard Development
-- REST API Integration
-- State Management
-- Component-Based Architecture
-- Performance Optimization
-- UI/UX Implementation
-- Clean Code & Best Practices
-
----
 
 # 📂 Featured Projects
-
-## 🛒 Shopify Vehicle Parts Store
-
-A modern Shopify-powered e-commerce platform where users can browse thousands of vehicle parts and automotive accessories. The platform offers advanced search, category-based navigation, product details, shopping cart functionality, and a responsive shopping experience.
-
-**Tech Stack**
-- Shopify
-- Liquid
-- HTML5
-- CSS3
-- JavaScript
-
----
 
 ## 👨‍💼 Employee Management System
 
@@ -146,10 +117,10 @@ I'm open to:
 
 ---
 
-## 📈 GitHub Contribution Graph
+<h2>🏆 GitHub Contributions</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahzaibdev45&theme=github-compact&hide_border=true" />
+  <img src="https://ghchart.rshah.org/shahzaibdev45" alt="GitHub Contributions" />
 </p>
 
 
