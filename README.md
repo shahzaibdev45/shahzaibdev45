@@ -32,7 +32,7 @@ Passionate Software Developer specializing in React, React Native, Expo, Next.js
 
 <p >
   <img
-    src="https://skillicons.dev/icons?i=react,nextjs,js,ts,sass,tailwind,firebase,html,css,androidstudio,aws,gcp,git,github,vscode,figma,postman,npm,vite,vercel,netlify&perline=7"
+    src="https://skillicons.dev/icons?i=react,nextjs,js,ts,sass,tailwind,firebase,mongodb,html,css,androidstudio,aws,gcp,git,github,vscode,figma,postman,npm,vite,vercel,netlify&perline=7"
   
 </p>
 
