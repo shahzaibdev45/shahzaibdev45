@@ -104,6 +104,10 @@ A responsive cross-platform food ordering application that provides an intuitive
 
 ---
 
+# Work with Me
+
+<div class="contra-hire-me-button" data-analyticsUserId="9a04076a-6f12-41f1-9608-86d918c7a5ca" data-theme="light" data-username="shahzaib_aftab"></div><script async src="https://contra.com/static/embed/sdk.js" charset="utf-8"></script>
+
 # 💼 Open for Opportunities
 
 I'm open to:
